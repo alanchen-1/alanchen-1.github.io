@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>Posts - Alan's Blog</title>
+        <link rel = "stylesheet" href = "./static/styles.css">
+        <link rel="icon" href="./static/favicon.png">
+    </head>
+    <body>
+        <div class = "container">
+            <header class = "header">
+                <span class = "header__inner">
+                    <a href="./index.html" style = "text-decoration:none">
+                        <div class = "logo">
+                            <span class = "logo__mark"> ~ </span>
+                            <span class = "logo__text"> $ cd /home/achen </span>
+                            <span class="logo__cursor"></span>
+                        </div>
+                    </a>
+                    <span class="header__right">
+                        <nav class="menu">
+                            <ul class="menu__inner">
+                                <li><a href="./about.html">About</a></li>
+                                <li><a href="./assets/resume.pdf" class = "lastnav">Resume</a></li>
+                                <li><a href="./posts.html" class = "lastnav">Posts</a></li>
+                            </ul>
+                        </nav>
+                    </span>
+                </span>
+            </header>
+            <div class = "content">
+                <main class = "posts">
+                    <h1> Posts </h1>
+                    <div class = "posts-tag">
+                    <h2> Projects </h2>
+                        <div class = "posts-group">
+                            <table class = "post-years">
+                                    <tr class = "post-row">
+                                        <td class = "post-year-column">
+                                            <div class = "post-year">2021</div>
+                                        </td>
+                                        <td class = "post-info-column">
+                                            <ul class = "posts-list">
+                                                <h4>No posts yet :( &nbsp;</h4>
+                                                <!----{% for post in year.list %}
+                                                    <li class = "post-item"><a href = "{{ post.get_absolute_url }}"> 
+                                                            <span class = "post-title">
+                                                                {{post.title}}
+                                                            </span>
+                                                            <span class = "post-day">
+                                                                {{post.get_month}} {{post.post_date.day}}
+                                                            </span>
+                                                        </a> 
+                                                    </li>
+                                                {% endfor %}---->
+                                            </ul>
+                                        </td>  
+                                       
+                                    </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class = "posts-tag">
+                        <h2> Blog </h2>
+                            <div class = "posts-group">
+                                <table class = "post-years">
+                                        <tr class = "post-row">
+                                            <td class = "post-year-column">
+                                                <div class = "post-year">2021</div>
+                                            </td>
+                                            <td class = "post-info-column">
+                                                <ul class = "posts-list">
+                                                    <h4>No posts yet :( &nbsp;</h4>
+                                                    <!----
+                                                        <li class = "post-item"><a href = "{{ post.get_absolute_url }}"> 
+                                                                <span class = "post-title">
+                                                                    {{post.title}}
+                                                                </span>
+                                                                <span class = "post-day">
+                                                                    {{post.get_month}} {{post.post_date.day}}
+                                                                </span>
+                                                            </a> 
+                                                        </li>
+                                                    ---->
+                                                </ul>
+                                            </td>   
+                                        </tr>
+                                </table>
+                            </div>
+                        </div>
+                        <div class = "posts-tag">
+                            <h2> Miscellaneous  </h2>
+                                <div class = "posts-group">
+                                    <table class = "post-years">
+                                            <tr class = "post-row">
+                                                <td class = "post-year-column">
+                                                    <div class = "post-year">2021</div>
+                                                </td>
+                                                <td class = "post-info-column">
+                                                    <ul class = "posts-list">
+                                                        <h4>No posts yet :( &nbsp;</h4>
+                                                        <!----{% for post in year.list %}
+                                                            <li class = "post-item"><a href = "{{ post.get_absolute_url }}"> 
+                                                                    <span class = "post-title">
+                                                                        {{post.title}}
+                                                                    </span>
+                                                                    <span class = "post-day">
+                                                                        {{post.get_month}} {{post.post_date.day}}
+                                                                    </span>
+                                                                </a> 
+                                                            </li>
+                                                        {% endfor %}---->
+                                                    </ul>
+                                                </td>   
+                                            </tr>
+                                    </table>
+                                </div>
+                            </div>
+            </div>
+            <footer class = "footer"> 
+                <div class = "footer__inner">
+                    <div class = "footer__content">
+                        <span><pre>© 2021 • Made with </pre></span>
+                        <span class = "heart">❤</span>
+                        <span><pre> from Alan</pre></span>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+    </body>
+</html>
+<head>
+
+</head>
+
+
