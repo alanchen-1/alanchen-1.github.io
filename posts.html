@@ -34,7 +34,37 @@
                     <h2> Projects </h2>
                         <div class = "posts-group">
                             <table class = "post-years">
-                                    <tr class = "post-row">
+                                <tr class = "post-row">
+                                    <td class = "post-year-column">
+                                        <div class = "post-year">2022</div>
+                                    </td>
+                                    <td class = "post-info-column">
+                                        <ul class = "posts-list">
+                                            <li class = "post-item"><a href = "./posts/waifuGANrevisit.html"> 
+                                                <span class = "post-title">
+                                                    waifuGAN Revisit - "Perfect Practice?"
+                                                </span>
+                                                <span class = "post-day">
+                                                    January 9
+                                                </span>
+                                            </a> 
+                                            </li>
+                                            <!----{% for post in year.list %}
+                                                <li class = "post-item"><a href = "{{ post.get_absolute_url }}"> 
+                                                        <span class = "post-title">
+                                                            {{post.title}}
+                                                        </span>
+                                                        <span class = "post-day">
+                                                            {{post.get_month}} {{post.post_date.day}}
+                                                        </span>
+                                                    </a> 
+                                                </li>
+                                            {% endfor %}---->
+                                        </ul>
+                                    </td>  
+                                   
+                                </tr>    
+                                <tr class = "post-row">
                                         <td class = "post-year-column">
                                             <div class = "post-year">2021</div>
                                         </td>
