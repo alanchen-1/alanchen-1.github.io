@@ -263,6 +263,13 @@ tr.post-row:not(:first-of-type) td {
     margin-top: 30px;
 }
 
+.footnote{
+    text-decoration: none;
+}
+.footnote:hover{
+    text-decoration: underline;
+}
+
 .footer{
     padding: 40px 20px;
     flex-grow: 0;
