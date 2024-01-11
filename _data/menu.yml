@@ -9,12 +9,12 @@ entries:
 
   - title: writing
     post_list:
-      limit: 5
+      limit: 7
       show_more: true
       show_more_text: archive...
       show_more_url: archive.html
 
-  - title: past work
-    url: /past-work/
+  - title: work
+    url: /work/
 
 

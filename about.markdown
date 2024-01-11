@@ -3,9 +3,12 @@ layout: page
 title: about
 permalink: /about/
 ---
-Hi, I'm Alan Chen, a junior studying at Brown University. I am pursuing an ScM in Applied Math and a BSc in Computer Science.
 
-My interests are probability and statistical learning theory, AI alignment, and theoretical computer science.
+<img src="/assets/me.jpg" style="width:25%">
+
+Hi, I'm Alan Chen, a junior studying at Brown University. I am pursuing a ScM in Applied Math and a BSc in Computer Science.
+
+My interests are probability and statistical learning theory, AI alignment, theoretical computer science, and philosophy.
 
 Some random facts about me:
 - My favorite activities include swimming, coding, reading, music, and occasionally some anime or video games.
