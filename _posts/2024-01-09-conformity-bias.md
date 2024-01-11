@@ -82,7 +82,7 @@ Notice that $I \in [0,1]$, with bigger meaning that social pressures to conform 
 
 I'm confident this is not the only way to define $I$ or think about it, but I think it's a good starting point to get some intuition on quantifying conformity bias.
 
-In particular, I have made the implicit assumption that humans are Bayesian updaters. I assume that the updates are still Bayesian and that the bias takes effect in the *inputs* to the updates. However, it is possible that humans have a different way of updating their beliefs that would encompass these biases in the *structure* of the update.
+In particular, I have made the implicit assumption that humans are Bayesian updaters. I assume that the structure of the updates are Bayesian but that the bias takes effect in the *inputs* to the updates. However, it is possible that humans have a different way of updating their beliefs that would encompass these biases in the *structure* of the update.
 
 ### Why This Matters
 Not too sure. I do think it's cool in the context of AI alignment though.
