@@ -1,56 +1,9 @@
-<!DOCTYPE html>
-<html lang = "en">
-    <head>
-        <title>A Crazy Week in My Life- Alan's Blog</title>
-        <link rel = "stylesheet" href = "../static/styles.css">
-        <link rel="icon" href="../static/favicon.png">
-        <script>
-            MathJax = {
-                tex: {
-                    inlineMath: [['$', '$'], ['\\(', '\\)']]
-                },
-                svg: {
-                    fontCache: 'global'
-                }
-            };
-        </script>
-        <script type="text/javascript" id="MathJax-script" async
-            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-        </script>
-    </head>
-    <body>
-        <div class = "container">
-            <header class = "header">
-                <span class = "header__inner">
-                    <a href="../index.html" style = "text-decoration:none">
-                        <div class = "logo">
-                            <span class = "logo__mark"> ~ </span>
-                            <span class = "logo__text"> $ cd /home/achen </span>
-                            <span class="logo__cursor"></span>
-                        </div>
-                    </a>
-                    <span class="header__right">
-                        <nav class="menu">
-                            <ul class="menu__inner">
-                                <li><a href="../about.html">About</a></li>
-                                <li><a href="../posts.html" class = "lastnav">Posts</a></li>
-                            </ul>
-                        </nav>
-                    </span>
-                </span>
-            </header>
-            <div class = "content">
-                <main class = "post">
-                    <div class = "post-info">
-                        <p>
-                        March 10, 2023
-                        </p>
-                    </div>
-                    <article>
-                        <h2 class = "post-title">
-                            A Crazy Week in My Life
-                        </h2>
-                        <div class = "post-content">
+---
+layout: post
+title:  A Crazy Week in My Life
+date:   2023-03-10
+categories: life math
+---
 <p>
 This post is quite stream of consciousness-y and a bit different. Starting at 5pm on February 16th, I had one of the most eventful weeks of my life, where a bunch of significant events all coincidentally landed on the same week. Normally I keep a private journal for events like this, but since as far as I can remember (outside of vacations) this was probably the most eventful week in university/potentially ever, I thought I'd write a post reflecting on it.
 </p>
@@ -92,7 +45,7 @@ It’s not unlike problem solving - I would definitely classify this strength as
 <p>
 We chose to work on problem A, which was about how plant communities can adapt to survive through droughts depending on the number of species and the biodiversity of the system. Around 3-4 hours in they threw up legitimately an end to end pipeline on a whiteboard, and I found myself panicking a bit when this happened since I didn’t understand like 50-75% of the model specifics. The probability of me being useless had suddenly become magnitudes larger. Here’s an image from our paper describing our pipeline, in which the goal was to simulate a plant population's evolution over time in a complex environment.
 </p>
-<img src="../assets/crazy week images/trash flowchart.png" width="500" style="display: block; margin-left: auto; margin-right:auto;">
+<img src="/assets/crazy week images/trash flowchart.png" width="500" style="display: block; margin-left: auto; margin-right:auto;">
 <p>
     I worked on the upper two modules (water module and nutrient module), where I designed some methods that we could simulate the growth and diffusion of resources in the environment, while accounting for pollution and droughts. My teammates cranked out the bottom half (which is appears to be less boxes but is significantly harder than what I had to do), where they coded up numerical methods to simulate competitive effects between populations of species (Lotka Volterra) and population diffusion (Fisher-KPP). We ended up using some simple finite difference method for the Fisher-KPP that was definitely suspicious because it unexpectedly turned out to be a monster equation, of which we later found out usually requires spectral Galerkin methods <sup><a href="#fn1" id="ref1" class="footnote">1</a></sup> .
 </p>
@@ -126,39 +79,39 @@ I would not recommend this as a method to anyone to stop overthinking though �
 Another one of my biggest goals going into the contest was to push myself physically as much as I could. I’ve always been pretty safe when it comes to my body - I sleep early and eat three meals a day, largely because I was a student athlete for all of high school. But, I wanted to try to see what I could do when I pushed it to what appeared to be my "unhealthy" limits. So, here's a record of the sleep I got:
 </p>
 <table>
-    <tr>
-        <td>
-            Friday
-        </td>
-        <td>
-            7am - 10am
-        </td>
+<tr>
+<td>
+    Friday
+</td>
+<td>
+    7am - 10am
+</td>
 
-    </tr>
-    <tr>
-    <td>
-        Saturday
-    </td>
-    <td>
-        8am - 9am 
-    </td>
-    </tr>
-    <tr>
-    <td>
-        Monday
-    </td>
-    <td>
-        4am - 7am 
-    </td>
-    </tr>
-    <tr>
-    <td>
-        <b>Total</b>
-    </td>
-    <td>
-        7 hours
-    </td>
-    </tr>
+</tr>
+<tr>
+<td>
+Saturday
+</td>
+<td>
+8am - 9am 
+</td>
+</tr>
+<tr>
+<td>
+Monday
+</td>
+<td>
+4am - 7am 
+</td>
+</tr>
+<tr>
+<td>
+<b>Total</b>
+</td>
+<td>
+7 hours
+</td>
+</tr>
 </table>
 <p>
 I don't want to be cocky, but the all nighters weren't that bad. Aided by my pretty healthy circadian rhythm, I actually felt quite decent throughout most of the competition. I’ve heard that hunger comes in waves, and I think tiredness is the same - there were just some stretches of 2-3 hours of waking time where I achieved very little because the tiredness hit me all at that point. Once I got past that wave, I’d feel normal again. 
@@ -190,7 +143,7 @@ As a final note to not drag on this section longer, I want to do a bullet list o
 	Taking the time to plan out an idea for a little extra time can save so much time later.
  </li>
  <li>
-    Knowing when to throw out an idea vs. plow on for a little longer is crucial. I'm a big proponent of <a href="struggle.html">struggling</a>, so I’m still horrible at this, as I tend to only give up when I feel like I really explored every single idea I could, but there's also this persistent feeling of “well what if I spent another hour and figured it out?” It’s kind of like a mix of gambler’s fallacy and sunken cost fallacy lol. Knowing when to cut losses is important. 
+    Knowing when to throw out an idea vs. plow on for a little longer is crucial. I'm a big proponent of <a href="/math/2023/01/11/struggle.html">struggling</a>, so I’m still horrible at this, as I tend to only give up when I feel like I really explored every single idea I could, but there's also this persistent feeling of “well what if I spent another hour and figured it out?” It’s kind of like a mix of gambler’s fallacy and sunken cost fallacy lol. Knowing when to cut losses is important. 
  </li>
  <li>
 	<b>Expect to be sloppy and make tons of mistakes when coding/doing math on no sleep.</b>
@@ -269,26 +222,8 @@ It started snowing during the competition, but as I came out of the final awards
 <p>
 Jeez, that was quite long. Thanks for reading, if you made it 🙂
 </p>
-                        </div>
-                    </article>
-                    <hr>
-                    <p>
-                        <sup id="fn1">[1] Yeah, that's just words to me too.<a href="#ref1" class="footnote">↩</a></sup>
-                    </p>
-                </main>
-            </div>
-            <footer class = "footer"> 
-                <div class = "footer__inner">
-                    <div class = "footer__content">
-                        <span><pre>© 2021-2023 • Made with </pre></span>
-                        <span class = "heart">❤</span>
-                        <span><pre> from Alan</pre></span>
-                    </div>
-                </div>
-            </footer>
-        </div>
-    </body>
-</html>
 
-
-
+---
+<p>
+<sup id="fn1">[1] Yeah, that's just words to me too.<a href="#ref1" class="footnote">↩</a></sup>
+</p>

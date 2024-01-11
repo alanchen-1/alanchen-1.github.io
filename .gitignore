@@ -1,2 +1,5 @@
-*.txt
-post_template.html
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

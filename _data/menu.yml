@@ -1,0 +1,20 @@
+entries:
+  - title: me
+    entries:
+      - title: about
+        url: /about/
+      - title: "email: alan_chen1@brown.edu"
+      - title: "linkedin"
+        url: "https://www.linkedin.com/in/alan-chen1/"
+
+  - title: writing
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: archive...
+      show_more_url: archive.html
+
+  - title: past work
+    url: /past-work/
+
+
