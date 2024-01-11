@@ -11,19 +11,21 @@ categories: life misc
 
 The visuals are stunning and the OST is beautifully eerie. The plot is interesting but nothing incredible - borderline confusing. But what stood out to me most are how *deep* the film's topics are.
 
-For those who aren't familiar, Ghost in the Shell is set in 2029 (5 years...) in a world filled with "cyberpunks," or mechanically augmented humans. It follows a main character who I'll call the "Major" and is an cybernetically enhanced brain placed in a cybernetic women's body ("ghost in the shell"). 
-
-The film even hits on gender ambiguity years before conversations about gender dysmorphia was "mainstream." The Major's gender is intentionally undisclosed - for all we know, the brain is a male brain implanted in a female body. The film does a great job of authentically posing the question of whether is **gender a property of the mind (ghost) or the body (shell)**.
+For those who aren't familiar, Ghost in the Shell is set in 2029 (5 years...) in a world filled with "cyberpunks," or mechanically augmented humans. It follows a main character who I'll call the "Major" and is a cybernetically enhanced brain placed in a mechanical woman-like body. 
 
 The main antagonist in the movie is the "Puppet Master," an unknown hacker that has been attacking different countries and is now in Japan. The Puppet Master is suspected to be targeting some upcoming secret diplomatic talks - the Major and their team are attempting to stop the Puppet Master and uncover the mystery. At the same time, the Major's own sense of self and humanity as someone who biologically possesses few human properties is repeatedly questioned.
 
-It turns out that the Puppet Master is actually just an AI developed by one of the parties in the talks to do dirty business for their government. It was so powerful that it became self-aware, went rogue, and escaped into a "shell" (body) resembling a blonde woman. The government doesn't want word getting out, so they aimed to recapture it and mask it all under some "Puppet Master incident."
+It turns out that the Puppet Master is actually just an AI developed by one of the parties in the talks to do dirty business for their government. It was so powerful that it became self-aware, went rogue, and escaped into a body resembling a blonde woman. The government doesn't want word getting out, so they aimed to recapture it and mask it all under some "Puppet Master incident."
 
 The Puppet Master found out about the Major through the Major's searches on the internet and orchestrates a meeting with the Major to propose a "merge," which in my interpretation is basically like combining consciences. After lengthy discussion, the Major accepts, and the movie ends post-merge with the world seemingly returned to normal.
 
-What I enjoyed most about the movie are the philosophical arguments and questions it poses. For example, heavy emphasis is placed on the separable entities of "mind" and "body," equivalently referred to in the movie as "ghost" and "shell" (hence "Ghost in the Shell"). This idea (Cartesian dualism) was first introduced by Descartes and it's clear that the authors, directors, and screenwriters paid homage to him and many other philosophers.
+What I enjoyed most about the movie are the philosophical arguments and questions it poses. For example, heavy emphasis is placed on the separable entities of "mind" and "body," equivalently referred to in the movie as "ghost" and "shell" (hence "Ghost in the Shell"). This idea ([Cartesian dualism](https://www.wikiwand.com/en/Mind%E2%80%93body_dualism)) was first introduced by Descartes and it's clear that the authors, directors, and screenwriters paid homage to him and many other philosophers.
 
 I wanted to yap a bit and discuss some of the questions and ideas this movie has made me think about more. It's really, really impressive for a film, even more so since its from 1995.
+
+### Gender Dysmorphia
+
+The film hits on gender ambiguity years before conversations about gender dysmorphia became "mainstream." The Major's gender is intentionally undisclosed - for all we know, the brain is a male brain implanted in a female body. The film does a great job of authentically posing the question of whether is **gender a property of the mind (ghost) or the body (shell)**.
 
 ### What makes us human?
 ![quote](/assets/gits_images/quote.png)
