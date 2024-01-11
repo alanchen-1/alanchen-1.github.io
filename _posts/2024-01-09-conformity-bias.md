@@ -4,6 +4,7 @@ title: Conformity Bias - A Bayesian View
 date: 2024-01-09
 categories: math
 ---
+*Thanks to James Zhou for discussion that prompted an update to this post*.
 
 Is this a dog or a cat?
 <img src="/assets/bayesian_images/dogcat.png" style="width:35%;">
@@ -80,6 +81,8 @@ $$I = 1 - \inf \{p : q(1-p)^{\log k} \geq (1-q)(p)^{\log k}\}.$$
 Notice that $I \in [0,1]$, with bigger meaning that social pressures to conform have a higher influence. If we compare the graphs with different $k$s, we can also observe property $3$.
 
 I'm confident this is not the only way to define $I$ or think about it, but I think it's a good starting point to get some intuition on quantifying conformity bias.
+
+In particular, I have made the implicit assumption that humans are Bayesian updaters. I assume that the updates are still Bayesian and that the bias takes effect in the *inputs* to the updates. However, it is possible that humans have a different way of updating their beliefs that would encompass these biases in the *structure* of the update.
 
 ### Why This Matters
 Not too sure. I do think it's cool in the context of AI alignment though.
