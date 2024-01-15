@@ -25,7 +25,7 @@ I wanted to yap a bit and discuss some of the questions and ideas this movie has
 
 ### Gender Dysmorphia
 
-The film hits on gender ambiguity years before conversations about gender dysmorphia became "mainstream." The Major's gender is intentionally undisclosed - for all we know, the brain is a male brain implanted in a female body. The film does a great job of authentically posing the question of whether is **gender a property of the mind (ghost) or the body (shell)**.
+The film hits on gender ambiguity years before conversations about gender dysmorphia became "mainstream." The Major's gender is intentionally undisclosed - for all we know, the brain is a male brain implanted in a female body. The film does a great job of authentically posing the question of whether **gender is a property of the mind (ghost) or the body (shell)**.
 
 ### What makes us human?
 ![quote](/assets/gits_images/quote.png)
@@ -47,7 +47,7 @@ Again, this film is from 1995. In 1995, computers had just become mainstream and
 ### Reproduction With Variation
 It is revealed that the Puppet Master wants to merge with the Major because the Puppet Master wants to "live freely." In particular, one aspect that the Puppet Master deems necessary to be "living" is **reproduction with variation.**
 
-Reproduction is a fundamental idea related to [**instrumental convergence**](https://www.lesswrong.com/tag/instrumental-convergence), which states that AI systems that maximize objectives will inevitably converge to instrumental goals. In particular, one such goal is **self-preservation** - if the AI can decentralize and/or duplicate itself across multiple devices, computers etc. it will make itself harder to shut down. It's like the idea of having multiple data centers - if one goes down, the others can still running. Since being shut down will always result in failing to achieve the objectives, the AI is incentivized to figure out how to best preserve itself.
+Reproduction is a fundamental idea related to [**instrumental convergence**](https://www.lesswrong.com/tag/instrumental-convergence), which states that AI systems that maximize objectives will inevitably converge to instrumental goals. In particular, one such goal is **self-preservation** - if the AI can decentralize and/or duplicate itself across multiple devices, computers etc. it will make itself harder to shut down. It's like the idea of having multiple data centers - if one goes down, the others can still run and preserve the system. Since being shut down will always result in failing to achieve the system's objectives, the AI is incentivized to figure out how to best preserve itself.
 
 The final conversation between the Puppet Master and the Major bring up an important aspect of instrumental self preservation: not only will the AI be incentivized to **duplicate** itself, but it will also want to **introduce variation.** The Puppet Master explicitly states that it was not satisfied with being able to clone itself. It concluded that without variation, all the copies of itself have the same failure points - one vulnerability can shut them all down. However, by introducing variation, it becomes monumentally harder to destroy. 
 
@@ -59,9 +59,11 @@ Reproduction with variation is a intrinsic trait of how life can preserve itself
 
 Another thing I noticed while watching was that I always had an inkling of doubt every time the Puppet Master spoke. The visuals, voice acting, and OST did wonderfully to contribute to this - I never fully believed that the Puppet Master was being honest about its intentions. Actually, this was so prevalent that I lowkey got confused about the plot because I thought the Puppet Master was lying but in fact it was being truthful, at least in the setting of the movie.
 
-However, it's confirmed at the end that the Puppet Master is capable of deception. It engineers the merge with the Major, after which the Puppet Master is believed to be dead (some snipers shoot the both the Major's shell and the Puppet Master's shell). Because it viewed being pursued by Section 6 as a constant thorn in its plans, the Puppet Master constructed a situation in which it could fake its death, stop being pursued by Section 6, and achieve its "true" goals of living freely. Most notably, the plan succeeds.
+However, it's confirmed at the end that the Puppet Master is capable of deception. It engineers the merge with the Major, after which the Puppet Master is believed to be dead (some snipers shoot the both the Major's shell and the Puppet Master's shell). Because the AI viewed being pursued as a constant thorn in its plans, it constructed a situation in which it could fake its death, stop being pursued, and achieve its "true" goals of living freely. Most notably, the plan succeeds.
 
 The ending of the movie is mysterious - we are not sure whether the merge is good or bad for humanity. I think a contributor to this obscurity is that once we are aware that the Puppet Master can deceive us, the Puppet Master is no longer a reliable source of its true intentions. It might have been lying about all of its previous intentions, but we will never know - is "living freely" just the most convenient path to a deeper objective?
+
+We can reasonably expect superintelligent systems to be capable of deception. I think ensuring agents are truthful is one of the hardest problems in alignment but an absolutely critical one, as it supersedes our evaluations of other metrics of alignment. Without a property of honesty or method of supervision, it is impossible to recover the true intentions of the agent, which turns every battle into one in which we must prepare for the worst-case scenario. 
 
 ### Concluding Thoughts
 
