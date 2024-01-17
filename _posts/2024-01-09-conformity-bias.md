@@ -70,10 +70,13 @@ There is some unaccounted effect that <b>induces</b> a relative increase in trus
 I believe this is exactly **conformity bias**. Because there is a perceived added benefit to conforming, we tend to want to blend in rather than stand out. This is probably conditioned through evolution - standing out from the crowd is as good as being dead.
 
 
-We can try to measure this impact $I$ quantitatively.
-1. If we have more trust in others, we place higher value on their opinions. So, if we fix $q$ and $k$, $I$ should be inversely related to the minimum $p$ that would cause us to switch.
-2. If we would never switch regardless of what the other people say ($q=1$ only), then $I = 0$.
-3. If $k$ increases but $q$ is fixed, then $I$ should increase.
+We can try to measure this impact $I$ quantitatively through some desiderata/assumptions. In particular, we want to think of $I$ as the *increase* in trust in other people's opinions relative to a default situation.
+
+1. If we have more trust in others, we place higher value on their opinions and a lower threshold in $p$ is needed to cause us to switch our opinion. So, if we fix $q$ and $k$, $I$ should be inversely related to the minimum $p$ that would cause us to cross the switching decision boundary.
+2. a) We have no reason to have trust in other people by default. 
+b) If we have no trust in other people, even a $q$ of $1$ would not cause us to switch.
+3. If $k$ increases but $q$ is fixed, then $I$ should increase - more people should apply greater pressure to conform, inducing a higher artificial increase in trust.
+
 Putting these properties together naively gives
 
 $$I = 1 - \inf \{p : q(1-p)^{\log k} \geq (1-q)(p)^{\log k}\}.$$
@@ -83,6 +86,8 @@ Notice that $I \in [0,1]$, with bigger meaning that social pressures to conform 
 I'm confident this is not the only way to define $I$ or think about it, but I think it's a good starting point to get some intuition on quantifying conformity bias.
 
 In particular, I have made the implicit assumption that humans are perfect Bayesian updaters and that the bias takes place in the inputs to the update. In practice this is impossible: with finitely many neurons in our brain, we cannot be perfectly Bayesian.
+
+Furthermore, I've established a very cynical default state of $0$ trust. I don't see in a truly random scenario how this could be changed, but in most real life scenarios a human (replace with agent) might encounter the other agents can probably be bucketed as trustworthy or untrustworthy.
 
 ### Why This Matters
 Not too sure. I do think it's cool in the context of AI alignment though.
