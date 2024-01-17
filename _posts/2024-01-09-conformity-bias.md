@@ -64,7 +64,7 @@ Using our framework, we can provide a few explanations for the subject switching
 
 I don't see either of these as particularly accurate. Making personal statements here: without good reason, I wouldn't have high confidence in random strangers and I also tend to trust my own judgement. Through my probably-selection-biased assessment of my peers, this tends to be true for others as well.
 <blockquote>
-There is some unaccounted effect that <b>induces</b> a relative increase in trust of others wrt self-confidence. Equivalently, a relative decrease in self confidence w.r.t confidence in others.
+There is some unaccounted effect that <b>induces</b> a relative increase in trust of others with respect to self-confidence. Equivalently, a relative decrease in self confidence with respect to confidence in others.
 </blockquote>
 
 I believe this is exactly **conformity bias**. Because there is a perceived added benefit to conforming, we tend to want to blend in rather than stand out. This is probably conditioned through evolution - standing out from the crowd is as good as being dead.
