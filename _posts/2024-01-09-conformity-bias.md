@@ -70,11 +70,11 @@ There is some unaccounted effect that <b>induces</b> a relative increase in trus
 I believe this is exactly **conformity bias**. Because there is a perceived added benefit to conforming, we tend to want to blend in rather than stand out. This is probably conditioned through evolution - standing out from the crowd is as good as being dead.
 
 
-We can try to measure this impact $I$ quantitatively through some desiderata/assumptions. In particular, we want to think of $I$ as the *increase* in trust in other people's opinions relative to a default situation.
+We can try to measure this impact $I$ quantitatively through some desiderata/assumptions. In particular, we want to think of $I$ as the *increase* in trust in other people's opinions relative to a default situation. Notably, I treat trust (somewhat unintuitively) as a separate quantity from confidence.
 
 1. If we have more trust in others, we place higher value on their opinions and a lower threshold in $p$ is needed to cause us to switch our opinion. So, if we fix $q$ and $k$, $I$ should be inversely related to the minimum $p$ that would cause us to cross the switching decision boundary.
 2. a) We have no reason to have trust in other people by default. 
-b) If we have no trust in other people, even a $q$ of $1$ would not cause us to switch.
+b) If we have no trust in other people, even a $p$ of $1$ would not cause us to switch.
 3. If $k$ increases but $q$ is fixed, then $I$ should increase - more people should apply greater pressure to conform, inducing a higher artificial increase in trust.
 
 Putting these properties together naively gives
