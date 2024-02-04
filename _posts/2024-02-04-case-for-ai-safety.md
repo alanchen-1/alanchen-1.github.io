@@ -14,7 +14,7 @@ I am writing this post as a newcomer to the AI safety field who until very recen
 
 I hope that this post will provide some valuable perspective into how I think we can increase the number of people who think AI safety work is important.
 ### My original beliefs
-My main misconception was that AI safety work is about reducing existential risk (x-risk) **from specifically AGI.** In reality, AI safety work will likely see it's impacts manifest in creating safe transformative AI (TAI) in addition to safe AGI - I believe this is a more convincing case of the importance of AI safety.
+My main misconception was that AI safety work is about reducing existential risk (x-risk) **from specifically AGI.** In reality, AI safety work will likely see its impacts manifest in creating safe transformative AI (TAI) in addition to safe AGI - I believe the mutual benefit is a more convincing case of the importance of AI safety.
 
 I feel like the general public has (and me as a newcomer had) this misconception because AGI is not very well understood. The widespread perception of AGI is heavily influenced by science fiction media which presents AGI as some sort of mysterious, superintelligent, and *futuristic* system, leading to a social impression that "dealing with bad AGI" is not an urgent problem. Unfortunately, if the perception of AI safety research is that it is all about AGI, it will cause the dismissal of AI safety work through lenses like "AGI is improbable and far away" and "people are dying right now in X - why should I care about AGI?"
 
@@ -30,11 +30,13 @@ However, no literature that I read or the beginner resources that I used cleared
 
 ![bluedot](/assets/case_for_ai/bluedot.png)
 
-**Clearly, this misconception is damaging to the reputation and purpose of AI safety research as a whole and diminishes interest.**
+**Clearly, this misconception is damaging to the reputation and purpose of AI safety research as a whole and diminishes interest. But, also realize that it is completely rational impact calculus.**
 
 Unfortunately, I believe that the social reputation of AGI is difficult to change *without actually achieving some semblance of AGI*, at which point it would be too late for big institutional investments into safety work. My impression is that people only started to take AI safety slightly more seriously once ChatGPT was publicly available and everyone and their mother was posting about how "the robots are going to take over" on social media... and then after actually using ChatGPT everyone realized that it kind of sucks and reset their priors to "AI isn't that scary" and "you think AI will take my job? lol".
 ### What updated my beliefs?
-I recently had a conversation with a friend and he introduced me to the concept of TAI, or intelligent AI that will be influential in localized sectors of society while not necessarily having achieved general intelligence nor exhibit IC behaviors. He gave the thought experiment of a bad actor that, even if not given the resources to train a model from scratch (a governance problem), could jailbreak a particularly capable public LLM to help them develop bioweapons. Notably, AGI does not need to even remotely exist for this to happen.
+I recently had a conversation with a friend and he introduced me to the concept of TAI, or intelligent AI that will be influential in localized sectors of society while not necessarily having achieved general intelligence nor exhibiting IC behaviors.
+
+He gave the thought experiment of a bad actor that, even if not given the resources to train a model from scratch (a governance problem), could jailbreak a particularly capable public LLM to help them develop bioweapons. Notably, AGI does not need to even remotely exist for this to happen.
 
 This was the turning point for me to realize the benefit of AI safety work, because in my mind safe TAI is a much more tangible impact. It feels significantly less far off that an improved version of GPT would be able to assist in the development of weapons that indirectly raise the probability of catastrophic events and/or human extinction. The negative impacts of misaligned TAI can come from something I *know* exists: bad people. This can be contrasted with the x-risk from AGI, which I know almost surely exists but with a foggy timeline.
 
@@ -53,9 +55,9 @@ This distinction between "TAI and AGI" and "just AGI" completely shifts the dyna
 </blockquote>
 
 ### What would shift the public?
-As aforementioned, I am sure I am not the only one with this misconception. But, I am concerned that not everyone will have access to a great peer that will explain to them the difference. I'm not sure how to publicly address this misrepresentation of the scope of AI safety work, especially given the "clickbait" appeal of AGI that can increase the interest in AI safety.
+As aforementioned, I am sure I am not the only one with this misconception. But, I am concerned that not everyone will have access to a great peer that will explain to them the difference. I'm not sure how to publicly address this misrepresentation of the scope of AI safety work, especially given the "clickbait" appeal of AGI that can increase interest in AI safety.
 
-However, I've concluded that because the perception around AGI will be hard to change, a core component to any public-facing advocacy agenda must be to stress the distinction between TAI and AGI and market AI safety research as work that will manifest its impacts on TAI as well. Otherwise, the impact will continue to be perceived as wishy-washy and immaterial.
+However, I've concluded that because the stigma around AGI will be hard to change, a core component to any public-facing advocacy agenda must be to stress the distinction between TAI and AGI and market AI safety research as work that will manifest its impacts on TAI as well. Otherwise, the impact will continue to be perceived as wishy-washy and immaterial.
 
 ---
 [^1]: To be clear, I have nothing against AISF. I think BlueDot is doing really important work and their introductory collections of materials have been a (and I cannot stress this enough) *blessing* for a lost and overwhelmed beginner.
