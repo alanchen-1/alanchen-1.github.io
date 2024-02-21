@@ -10,6 +10,8 @@ categories: ai
 AI safety work is about reducing existential risk from more than just AGI, but the public is not aware of this fact.
 </blockquote>
 
+Update (02/21/24): OpenAI recently found state-affiliated actors using GPT for malicious use cases. [Read here.](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
+
 I am writing this post as a newcomer to the AI safety field who until very recently was unconvinced on the impact of AI safety work. I found the problems and work technically interesting, but not necessarily impactful. I will talk about why I thought that, why I think my beliefs are not uncommon, and what changed my mind.
 
 I hope that this post will provide some valuable perspective into how I think we can increase the number of people who think AI safety work is important.
