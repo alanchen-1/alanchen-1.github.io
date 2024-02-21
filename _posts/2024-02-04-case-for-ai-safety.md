@@ -7,7 +7,7 @@ categories: ai
 *Thanks to James Zhou for the lengthy discussion that prompted this reflection.*
 
 <blockquote>
-AI safety work is about reducing existential risk from more than just AGI, but the public is not aware of this fact. Neither was I.
+AI safety work is about reducing existential risk from more than just AGI, but the public is not aware of this fact.
 </blockquote>
 
 I am writing this post as a newcomer to the AI safety field who until very recently was unconvinced on the impact of AI safety work. I found the problems and work technically interesting, but not necessarily impactful. I will talk about why I thought that, why I think my beliefs are not uncommon, and what changed my mind.
