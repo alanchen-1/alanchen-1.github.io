@@ -44,6 +44,7 @@ Consider, for some task or activity, that there is some set of quanta $Q = \\{q_
 Each person has a set of *acquired* quanta $\mathcal{A}$ and a set of *distinguishable* quanta $\mathcal{D}$, or the set of quanta $q \in Q$ of which this person can distinguish between someone with $q \in \mathcal{A}$ and someone with $q \notin \mathcal{A}$ . The first property I require is that $\mathcal{A} \subset \mathcal{D}$ - the set of distinguishable quanta contains all of the acquired quanta. This is the only requirement on $\mathcal{A}$ and $\mathcal{D}$ - in reality, we can also pose a stronger requirement that 
 
 $$\mathcal{D} = f(\mathcal{A}), f : \mathcal{P}(Q) \to \mathcal{P}(Q),$$
+
 for some monotonic $f$ i.e.
 
 $$\mathcal{A} \subset \mathcal{A}' \implies f(\mathcal{A}) \subset f(\mathcal{A}').$$
