@@ -3,6 +3,7 @@ layout: page
 title: work
 permalink: /work/
 ---
+
 Projects:
 - [Signatures for Hand Kinematic Synergies](/assets/Signatures_for_Hand_Kinematic_Synergies.pdf) (Brown, 2023)
 - [Where's My Water?](/assets/mcm_2023.pdf) (MCM 2023)
