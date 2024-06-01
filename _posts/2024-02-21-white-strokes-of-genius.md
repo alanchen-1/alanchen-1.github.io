@@ -65,7 +65,7 @@ i.e. $\mathcal{A}$ and all of its directly adjacent, yet not-necessarily-acquire
 ![dependency_dag](/assets/evaluating_competence/dependency_dag.png)
 All points with a red dot are in $\mathcal{A}$. The points in red and the point in blue are $\mathcal{D}$ defined using the $f$ above.
 
-For this particular $f$, I feel like there should be a clean way (linear maybe) to solve the minimal covering problem. I honestly haven't figured it out though, and might update this post if I do.
+This particular $f$ is equivalent to finding a [dominating set](https://www.wikiwand.com/en/Dominating_set) of $\mathcal{A}'$. In general, I think this is NP-hard even for DAGs, but for trees it can be solved in polytime using DP.
 
 For particular structures of $Q$, we can specify lower bounds on this minimal $\mathcal{A}$ - for example, if $Q$ is a complete binary tree, we know (very, very weakly) that $\|\mathcal{A}\| \geq \|\mathcal{A}'\| / 3$ - we have to at least have acquired half the quanta that the other person has in order to fully appreciate them. The denominator shrinks as $\mathcal{A}'$ grows in size - as the other person is more skilled, we ourselves must be more skilled as well and be able to distinguish a greater proportion of their quanta.
 
