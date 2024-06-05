@@ -22,7 +22,7 @@ title: /home/achen
 author: Alan Chen
 email: alan_chen1@brown.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Alan Chen. Welcome to my thoughts and what I'm doing about them.
+  Hi, I'm Alan Chen. I think a lot about randomness, optimality, and AI. Thanks for stopping by.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "alanchen-1.github.io"
 url: "https://alanchen-1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
