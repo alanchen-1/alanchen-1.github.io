@@ -12,4 +12,7 @@ My academic interests are in probability and statistics, AI, theoretical compute
 
 Otherwise, I love swimming, going to the gym, listening to music, and watching the Packers choke. When I'm at home, I also like to take pictures of my cat Mimi. 
 
+<img src="/assets/mimi.jpg" style="width:50%">
+
+
 I hope you enjoy your stay :) - Alan
