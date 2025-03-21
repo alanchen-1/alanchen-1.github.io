@@ -10,7 +10,7 @@ Hi, I'm Alan, a senior at Brown University. I'm doing a ScM in Applied Math and 
 
 My academic interests are in probability and statistics, AI, theoretical computer science, and amateur philosophy.
 
-Otherwise, I love swimming, going to the gym, listening to music, and watching the Packers choke. When I'm at home, I also like to take pictures of my cat Mimi. 
+Otherwise, I love swimming, going to the gym, listening to music, cooking (with high variance results), and watching the Packers choke. When I'm at home, I also like to take pictures of my cat Mimi. 
 
 <img src="/assets/mimi.jpg" style="width:50%">
 
