@@ -4,7 +4,9 @@ title: work
 permalink: /work/
 ---
 
-Projects:
+projects:
+- [Delay Differential Equations in Climate Modeling](/assets/apma2190_final_project.pdf) (apma2190, 2024)
+- [Proposal: Robustness of In-Context Connections in the Lexicon](/assets/QALM_Proposal.pdf) (clps800, 2024)
 - [Signatures for Hand Kinematic Synergies](/assets/Signatures_for_Hand_Kinematic_Synergies.pdf) (Brown, 2023)
 - [Where's My Water?](/assets/mcm_2023.pdf) (MCM 2023)
 - [TAC AdX Agent](/assets/2440_final_writeup.pdf) (cs2440, 2023)
@@ -13,8 +15,8 @@ Projects:
 - [waifuGAN](https://github.com/alanchen-1/waifuGAN) (2021)
 - [UMD Supersymmetry Research](/assets/2020research.pdf) (2020)
 
-Places I've will work or have worked at:
-- DRW (QR, 2024)
+places:
+- DRW (QR, [2025-, 2024])
 - Roblox (SWE, 2023)
 - Intel (SWE, 2022)
 - NASA (Research, [2021, 2019])

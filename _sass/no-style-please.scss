@@ -1,75 +1,58 @@
-// -------------- THEME SWITCHER -------------- //
-@mixin dark-appearance {
-  filter: invert(1);
-  img {
-    filter: invert(1);
+// Base colors and appearance
+$background-color: #f5f2ea; // Warm beige
+$text-color: #333333; // Softer black
+$link-color: #7b5d3f; // Warm brown for links
+$visited-link-color: #7b5d3f; // Darker brown for visited links
 
-    &.ioda { filter: invert(0); }
-  }
-}
-
-body[a="dark"] { @include dark-appearance; }
-
-
-@media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
-}
-// -------------------------------------------- //
-
-// bg color is also needed in html in order to
-// block body's background propagation
-// see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
-
-html { height: 100%; }
+html, body { background: $background-color; }
 
 body {
-  color: black;
-  font-family: monospace;
+  color: $text-color;
+  font-family: "Baskerville", "Libre Baskerville", Georgia, serif;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.6;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
 }
 
-.post-meta { text-align: right; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Baskerville", "Libre Baskerville", Georgia, serif;
+  //font-weight: normal;
+  line-height: 1.2;
+}
 
-h2, h3, h4, h5, h6 { margin-top: 3rem; }
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.8rem; }
 
-hr { margin: 2rem 0; }
+a {
+  color: $link-color;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.2s;
+}
 
-p { margin: 1rem 0; }
+a:hover {
+  border-bottom: 1px solid $link-color;
+}
 
-li { margin: 0.4rem 0; }
-
-*:target { background: yellow; }
+a:visited {
+  color: $visited-link-color;
+}
 
 .w {
-  max-width: 640px;
+  max-width: 680px;
   margin: 0 auto;
   padding: 4rem 2rem;
 }
 
-hr {
-  text-align: center;
-  border: 0;
-
-  &:before { content: '/////' }
-  &:after { content: attr(data-content) '/////' }
-}
-
-table { width: 100%; }
-
-table, th, td {
-  border: thin solid black;
-  border-collapse: collapse;
-  padding: 0.4rem;
-}
-
+// Styling for code blocks
 code {
-  color: white;
-  background: gray;
+  font-family: "Courier New", monospace;
+  color: #5d4731;
+  background: #eae5d9;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
 }
 
 div.highlighter-rouge code {
@@ -77,28 +60,69 @@ div.highlighter-rouge code {
   overflow-x: auto;
   white-space: pre-wrap;
   padding: 1rem;
+  border-radius: 4px;
 }
 
+// Blockquotes
 blockquote {
   font-style: italic;
-  border: thin solid black;
-  padding: 1rem;
-
-  p { margin: 0; }
+  border-left: 3px solid #7b5d3f;
+  padding-left: 1rem;
+  margin-left: 0;
+  color: #555;
 }
 
+// Images
 img {
   max-width: 100%;
   display: block;
-  margin: 0 auto;
+  margin: 2rem auto;
+  border-radius: 4px;
 }
 
-
-a {
-  color: blue;
+// Subtle separator
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #d8d0c1; // Light beige color to match the theme
+  margin: 2rem 0;
 }
 
-a:visited {
-  text-decoration: none;
-  color: blue;
+// Lists
+ul {
+  list-style-type: disc;
+  padding-left: 2rem;
+}
+
+li {
+  margin: 0.6rem 0;
+}
+
+//li:before {
+  //position: absolute;
+  //left: -1rem;
+  //color: #7b5d3f;
+//}
+
+// Tables
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+}
+
+table, th, td {
+  border: 1px solid #d8d0c1;
+  padding: 0.8rem;
+}
+
+th {
+  background-color: #eae5d9;
+}
+
+// Post metadata
+.post-meta {
+  font-style: italic;
+  color: #777;
+  margin-bottom: 2rem;
 }
