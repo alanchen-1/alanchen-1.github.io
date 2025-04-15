@@ -7,7 +7,7 @@ categories: life
 
 One big goal for my final semester was to *clean out the clutter* in my life. Last semester, I found myself constantly juggling too many activities and obligations, some of which I had already lost interest in continuing to do. I was living in a state of constant brain fog, preventing me from really focusing on what I wanted to work on (which recently has been my research projects - those have brought me simultaneously the highest highs and the lowest lows).
 
-Where I faltered was in the specificity of my goal. What I really wanted to do was *stop wasting time*, because I'm graduating so soon. However, unconsciously, I conflated *not wasting time* with the very similar goal of *don't do what I want to do*. 
+Where I faltered was in the specificity of my goal. What I really wanted to do was *stop wasting time*, because I'm graduating so soon. However, unconsciously, I conflated *not wasting time* with the very similar goal of *don't do what I don't want to do*. 
 
 Why is this bad? There's a not-so-subtle but crucial distinction between "things I don't want to do" and "things that would waste my time" - the sets ("things I don't want to do" $\cap$ "things that would not waste my time") and ("things I want to do" $\cap$ "things that will waste my time") are both nonempty. I've been solid at regulating the latter - for example, earlier this semester I had been playing a lot of Marvel Rivals. But it's mostly a waste of my time, so I've been trying to replace it with other activities like reading and writing that seem more valuable to personal development but are still relaxing from what's traditionally my "work."
 
