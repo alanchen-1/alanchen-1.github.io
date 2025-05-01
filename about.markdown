@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img src="/assets/me.jpg" style="width:25%; border-radius:4px">
+<img src="/assets/me.jpg" style="width:50%; border-radius:4px">
 
 Hi, I'm Alan, a senior at Brown University. I'm doing a ScM in Applied Math and a BSc in Computer Science. I currently do research in the [LUNAR Lab](https://lunar.cs.brown.edu/) in LLM interpretability and with Prof. Govind Menon in theoretical deep learning.
 
