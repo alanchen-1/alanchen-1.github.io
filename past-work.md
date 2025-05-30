@@ -3,8 +3,10 @@ layout: page
 title: work
 permalink: /work/
 ---
+publications:
+- hopefully coming soon :)
 
-projects:
+projects (quality not guaranteed):
 - [Delay Differential Equations in Climate Modeling](/assets/apma2190_final_project.pdf) (apma2190, 2024)
 - [Proposal: Robustness of In-Context Connections in the Lexicon](/assets/QALM_Proposal.pdf) (clps800, 2024)
 - [Signatures for Hand Kinematic Synergies](/assets/Signatures_for_Hand_Kinematic_Synergies.pdf) (Brown, 2023)
