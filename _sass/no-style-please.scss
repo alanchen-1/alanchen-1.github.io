@@ -8,8 +8,9 @@ html, body { background: $background-color; }
 
 body {
   color: $text-color;
-  font-family: "Baskerville", "Libre Baskerville", Georgia, serif;
-  font-size: 16px;
+  //font-family: "Alegreya", serif;
+  font-family: "Crimson Pro", serif;
+  font-size: 20px;
   line-height: 1.6;
   margin: 0;
   min-height: 100%;
@@ -17,7 +18,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Baskerville", "Libre Baskerville", Georgia, serif;
+  font-family: "Crimson Pro", serif;
+  //font-family: "Alegreya", serif;
   //font-weight: normal;
   line-height: 1.2;
 }

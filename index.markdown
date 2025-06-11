@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+I'm a researcher at [DRW](https://www.drw.com/) interested in math and machine learning. Previously, I studied applied math and computer science at Brown University where I was advised by Prof. [Govind Menon](https://www.dam.brown.edu/people/menon/).
