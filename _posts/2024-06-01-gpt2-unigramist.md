@@ -2,7 +2,7 @@
 layout: post
 title:  GPT2 is unigram-ist
 date:   2024-06-01
-categories: ai, interpretability
+categories: ai interpretability
 ---
 There is much literature investigating the "long tail" robustness of machine learning models and methods to combat underrepresentation of important data points.
 

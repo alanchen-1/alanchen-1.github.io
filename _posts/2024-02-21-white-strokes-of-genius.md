@@ -2,7 +2,7 @@
 layout: post
 title: White Strokes - A Model of Evaluating Competence
 date: 2024-02-21
-categories: math, life
+categories: math life
 ---
 
 I came across this [old but great post](https://ericneyman.wordpress.com/2020/12/26/alike-minds-think-great/) from Eric Neyman this past week. In particular, he discusses one particular bias that I can relate to:
