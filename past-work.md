@@ -6,7 +6,7 @@ permalink: /work/
 
 **research**:
 - [Transferring Features Across Language Models With Model Stitching](https://www.arxiv.org/abs/2506.06609)  
-Alan Chen, Jack Merullo, Alessandro Stolfo, Ellie Pavlick | NeurIPS (**spotlight**), 2025.
+Alan Chen, Jack Merullo, Alessandro Stolfo, Ellie Pavlick | NeurIPS, 2025 (**spotlight**).
 - [Geodesics and Low Rank Behavior in the Deep Linear Network](/assets/undergrad_thesis.pdf)  
 Alan Chen, supervised by Prof. Govind Menon | Undergraduate Thesis, 2025.
 - [Signatures for Hand Kinematic Synergies](/assets/Signatures_for_Hand_Kinematic_Synergies.pdf)  
