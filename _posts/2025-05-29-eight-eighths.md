@@ -27,4 +27,3 @@ I wanted to list people who I feel made a uniquely notable impact on my undergra
 - My family and Mimi
 
 ---
-As of right now, I'm set to start as a researcher at DRW, Chicago-based market making firm, in July. Other than that, the future is uncertain and boundless - in particular, I want to make a return to ML research, hopefully sooner rather than later.
