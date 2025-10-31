@@ -1,15 +1,15 @@
 entries:
   - title: "email: alan_chen1@alumni.brown.edu"
 
+  - title: work
+    url: /work/
+
   - title: writing
     post_list:
       limit: 5
       show_more: true
       show_more_text: archive...
       show_more_url: archive.html
-
-  - title: work
-    url: /work/
 
   - title: misc
     url: /misc/
