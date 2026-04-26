@@ -10,15 +10,14 @@ Alan Chen, Jack Merullo, Alessandro Stolfo, Ellie Pavlick | NeurIPS, 2025 (**spo
 - [Entropic Regularization in the Deep Linear Network](https://arxiv.org/abs/2512.06137)  
 Alan Chen, Tejas Kotwal, Govind Menon | preprint, 2025
 - [Geodesics in the Deep Linear Network](https://arxiv.org/abs/2510.07324)  
-Alan Chen | preprint, 2025
-- [Geodesics and Low Rank Behavior in the Deep Linear Network](/assets/undergrad_thesis.pdf)  
-Alan Chen, supervised by Prof. Govind Menon | Undergraduate Thesis, 2025
+Alan Chen | Quarterly of Applied Mathematics, 2025
 - [Modeling Extreme Values in the IMERG Precipitation Dataset](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/605744)  
 Alan Chen, Yaping Zhou, George Huffman | AGU Fall Meeting, 2019 
 
 **People + places**: see [linkedin](https://www.linkedin.com/in/alan-chen1/)
 
 **Projects (quality not guaranteed)**:
+- [Geodesics and Low Rank Behavior in the Deep Linear Network](/assets/undergrad_thesis.pdf) supervised by Prof. Govind Menon (Undergraduate Thesis, 2025)
 - [Delay Differential Equations in Climate Modeling](/assets/apma2190_final_project.pdf) w/ Ayushman Choudhury (apma2190, 2024)
 - [Proposal: Robustness of In-Context Connections in the Lexicon](/assets/QALM_Proposal.pdf) (clps0800, 2024)
 - [Where's My Water?](/assets/mcm_2023.pdf) w/ Matthew Meeker, Alexey Izmailov (MCM, 2023)
