@@ -4,7 +4,7 @@ title: work
 permalink: /work/
 ---
 
-**Research**:
+**Research** [[scholar]](https://scholar.google.com/citations?user=gSVY4z8AAAAJ&hl=en):
 - [Transferring Features Across Language Models With Model Stitching](https://www.arxiv.org/abs/2506.06609)  
 Alan Chen, Jack Merullo, Alessandro Stolfo, Ellie Pavlick | NeurIPS, 2025 (**spotlight**)
 - [Entropic Regularization in the Deep Linear Network](https://arxiv.org/abs/2512.06137)  
