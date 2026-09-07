@@ -7,7 +7,7 @@ categories: life
 <p>Wow. Time flies.</p>
 <p>I recently officially became a rising junior. How am I halfway through what are supposed to be the best four years of my life...</p>
 <p>
-To reflect a bit, I reread some of my old journal entries and also my <a href="/life/2021/10/02/a-new-home.html">“A New Home”</a> post from the <i>first month of freshman year</i>. Gosh. That’s so long ago - all the way back when my family was planning on naming our cat “Almond” (his name is now just affectionately “Mimi”). 
+To reflect a bit, I reread some of my old journal entries and also my <a href="/life/a-new-home/">“A New Home”</a> post from the <i>first month of freshman year</i>. Gosh. That’s so long ago - all the way back when my family was planning on naming our cat “Almond” (his name is now just affectionately “Mimi”). 
 </p>
 <img src="/assets/half/mimi.jpeg" width=500> 
 <p>

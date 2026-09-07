@@ -53,3 +53,5 @@ I feel like I have limited myself, and my mom tells me this a lot too. I'm not h
 
 That’s all for now. In summary, stuff is going well, maybe better than expected. However, I still have some work to do to make it a truly fulfilling first semester and I still miss my family a ton. Thanksgiving could not come sooner... Back to work!
 
+---
+

@@ -1,7 +1,7 @@
 {%-if include.category-%}
-  {%-assign posts = site.categories[include.category]-%}  
+  {%-assign posts = site.writing | where_exp: "post", "post.categories contains include.category"-%}
 {%-else-%}
-  {%-assign posts = site.posts-%}
+  {%-assign posts = site.writing | sort: "date" | reverse-%}
 {%-endif-%}
 
 {%-if include.limit and posts.size > include.limit-%}

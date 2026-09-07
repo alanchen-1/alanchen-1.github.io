@@ -4,7 +4,7 @@ title: waifuGAN
 date: 2021-08-25
 categories: cs
 ---
-<h4>UPDATE - <a href = "/cs/2022/01/09/waifugan-revisit.html"> new post about this!</a> </h4>
+<h4>UPDATE - <a href = "/cs/waifugan-revisit/"> new post about this!</a> </h4>
 <p>Introducing <a href = "https://github.com/alanchen-1/waifuGAN">waifuGAN</a>, a DCGAN network trained to generate anime faces, implemented in PyTorch with data taken from <a href="https://www.zerochan.net/">zerochan.net</a> and cropped using OpenCV.</p>
 <h2 id="data-collection">Data Collection</h2>
 <p>Data was scraped from <a href="https://www.zerochan.net/">zerochan.net</a>. There&#39;s a lot of high-quality existing datasets out there like <a href="https://github.com/bchao1/Anime-Face-Dataset">this</a> and <a href="https://www.kaggle.com/subinium/highresolution-anime-face-dataset-512x512">this</a>, but none of them that I found used zerochan so I thought I&#39;d try it out. I did try pixiv at first just because the art on there is cool/high quality, but I got blocked by 403 errors. Zerochan worked pretty well for this project though.

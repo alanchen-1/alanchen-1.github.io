@@ -44,6 +44,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+collections:
+    writing:
+        output: true
+        permalink: /:categories/:title/
+
+feed:
+    collections:
+        writing: {}
+
 sass:
     style: :compressed
 

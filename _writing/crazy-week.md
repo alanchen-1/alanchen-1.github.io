@@ -143,7 +143,7 @@ As a final note to not drag on this section longer, I want to do a bullet list o
 	Taking the time to plan out an idea for a little extra time can save so much time later.
  </li>
  <li>
-    Knowing when to throw out an idea vs. plow on for a little longer is crucial. I'm a big proponent of <a href="/math/2023/01/11/struggle.html">struggling</a>, so I’m still horrible at this, as I tend to only give up when I feel like I really explored every single idea I could, but there's also this persistent feeling of “well what if I spent another hour and figured it out?” It’s kind of like a mix of gambler’s fallacy and sunken cost fallacy lol. Knowing when to cut losses is important. 
+    Knowing when to throw out an idea vs. plow on for a little longer is crucial. I'm a big proponent of <a href="/math/struggle/">struggling</a>, so I’m still horrible at this, as I tend to only give up when I feel like I really explored every single idea I could, but there's also this persistent feeling of “well what if I spent another hour and figured it out?” It’s kind of like a mix of gambler’s fallacy and sunken cost fallacy lol. Knowing when to cut losses is important. 
  </li>
  <li>
 	<b>Expect to be sloppy and make tons of mistakes when coding/doing math on no sleep.</b>
